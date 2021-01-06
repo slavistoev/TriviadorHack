@@ -15,5 +15,5 @@ such game again.
 are then passed to Tesseract OCR for text extraction. No DB, just read/write to 
 binary files. Using Windows API again we simulate key strokes from the keyboard
 to insert answers for better reaction times. A simple UI built with 
-C++/CLR Windows Forms extension for Visual Studio. 
-
+C++/CLR Windows Forms extension for Visual Studio. Utilized use of multithreading
+for better results.
