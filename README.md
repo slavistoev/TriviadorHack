@@ -1,6 +1,9 @@
 # TriviadorHack
 A C++ console applicatoin for the popular online game Triviador
 
+You can download the hack and see installation and setup here:
+https://drive.google.com/drive/folders/1WIJdOgm4-J5eR_YJqkUjbeBgjL3ecgUo?usp=sharing
+
 This cheat program is NOT ILLEGAL as it complies with "THX GAMES LTD" Terms of Service.
 It is however considered as "content-related damage" which may result in 
 "temporary or permanent filtering, point deduction, banning or exclusion from the site" 
